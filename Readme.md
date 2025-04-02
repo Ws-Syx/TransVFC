@@ -2,4 +2,6 @@
 
 This paper is submitted to Pattern Recognition for possible publication. 
 
+https://arxiv.org/abs/2503.23772
+
 We will finish our code as soon as possible after publication. 
