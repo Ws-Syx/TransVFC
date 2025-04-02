@@ -1,3 +1,5 @@
-# TransVFC: A Transformable Video Feature Compression Framwork for Machines
+# TransVFC: A Transformable Video Feature Compression Framework for Machines
 
-We will finish our codes after publication as soon as possible. 
+This paper is submitted to Pattern Recognition for possible publication. 
+
+We will finish our code as soon as possible after publication. 
